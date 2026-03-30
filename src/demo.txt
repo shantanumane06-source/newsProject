@@ -1,0 +1,11 @@
+<Route path="/business"><News News pageSize={5} counter="in" category="general"/></Route>
+<Route path="/enterternment"><News News pageSize={5} counter="in" category="general"/></Route>
+<Route path="/generat"><News News pageSize={5} counter="in" category="general"/></Route>
+<Route path="/health"><News News pageSize={5} counter="in" category="general"/></Route>
+<Route path="/science"><News News pageSize={5} counter="in" category="general"/></Route>
+<Route path="/sports"><News News pageSize={5} counter="in" category="general"/></Route>
+<Route path="/technology"><News News pageSize={5} counter="in" category="general"/></Route>
+
+
+
+<Route path="/about"><News News pageSize={5} counter="in" category="general"/></Route>
